@@ -60,8 +60,8 @@ Key points:
 ## TABULATION LED Characteristics (850 nm)
 
 
+<img width="1280" height="989" alt="629603670-6c81a71d-dd34-4479-a7d5-629d57032398" src="https://github.com/user-attachments/assets/b8abba9f-5478-4d0a-ad6d-4202a785551c" />
 
-<img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics (1310 nm)
 
